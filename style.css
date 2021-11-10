@@ -41,7 +41,7 @@ article.media-post > footer ul {
 
 #modal {
   border-radius: 10px;
-  background-color: maroon;
+  background-color: rgba(255, 0, 0, 0.750);
   color: white;
 
   margin: 1em;
@@ -59,6 +59,7 @@ article.media-post > footer ul {
 
 .activated-heart {
   color: red;
+  cursor: pointer;
 }
 
 .hidden {
